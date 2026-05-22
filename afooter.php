@@ -7,7 +7,7 @@
 
       <div class="footer-about">
         <a href="index.php" class="logo-wrapper" style="display:flex; align-items:center; gap:10px; margin-bottom:20px;">
-          <img src="img/cropped-Ebco-logos.png" alt="EBCO Logo" style="height:40px; width:auto; border-radius:4px;">
+          <img src="img/logo.jpg" alt="EBCO Logo" style="height:100px; width:auto; border-radius:4px;">
           <div class="logo" style="margin:0; font-size:22px; font-weight:800; color:#fff; letter-spacing:1px;">EBCO<span style="color:#f8b400;">.</span></div>
         </a>
 

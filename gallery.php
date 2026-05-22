@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/png" href="img/logo.jpg">
   <title>Gallery - Emmanuel Baptist College (EBCO)</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,7 +27,7 @@
   <!-- GALLERY WITH INTERACTIVE FILTERS -->
   <section>
     <div class="container">
-      
+
       <!-- Category Filter Tabs -->
       <div class="gallery-filter">
         <button class="filter-btn active" onclick="filterGallery('all', this)">All Photos</button>
@@ -38,7 +39,7 @@
 
       <!-- Gallery Grid -->
       <div class="grid-3" id="gallery-grid">
-        
+
         <!-- EB1 -->
         <div class="gallery-card" data-category="classrooms" onclick="openLightbox(this)">
           <img src="img/EB1.jpg" alt="Senior Classroom Session">
@@ -186,7 +187,7 @@
       const img = card.querySelector('img');
       const lightbox = document.getElementById('lightbox');
       const lightboxImg = document.getElementById('lightbox-img');
-      
+
       lightboxImg.src = img.src;
       lightboxImg.alt = img.alt;
       lightbox.style.display = 'flex';

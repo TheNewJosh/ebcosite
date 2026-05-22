@@ -6,7 +6,7 @@ $current_page = basename($_SERVER['SCRIPT_NAME']);
   <div class="container">
     <nav>
       <a href="index.php" class="logo-wrapper" style="display:flex; align-items:center; gap:10px;">
-        <img src="img/cropped-Ebco-logos.png" alt="EBCO Logo" style="height:45px; width:auto; border-radius:4px;">
+        <img src="img/logo.jpg" alt="EBCO Logo" style="height:45px; width:auto; border-radius:4px;">
         <div class="logo" style="margin:0; font-size:24px; font-weight:800; color:#fff; letter-spacing:1px;">EBCO<span style="color:#f8b400;">.</span></div>
       </a>
 
