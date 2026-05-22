@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/png" href="img/logo.jpg">
-  <title>Emmanuel Baptist College (EBCO) - Excellence & Godliness</title>
+  <title>Emmanuel Baptist College (EBCO) - God With Us</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
