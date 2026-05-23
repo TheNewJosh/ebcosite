@@ -61,7 +61,7 @@
         <div class="about-image">
           <img src="img/EB6-768x549.jpg" alt="Principal of EBCO" style="border-radius: 30px; box-shadow: var(--shadow);">
           <div class="about-card" style="width: 280px; text-align: center;">
-            <h4 style="color: var(--primary); font-weight: 800; font-size: 20px; margin-bottom: 5px;">Dr. Emmanuel Adebayo</h4>
+            <h4 style="color: var(--primary); font-weight: 800; font-size: 20px; margin-bottom: 5px;">Mr Oladeji Ayorinde Samson</h4>
             <p style="color: var(--text); font-size: 14px;">Principal / Administrator</p>
           </div>
         </div>
